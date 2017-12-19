@@ -1,0 +1,7 @@
+^-^  this is Menu!!
+===============
+1.start game
+2.end game
+3.current time
+===============
+put number.
